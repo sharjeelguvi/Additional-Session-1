@@ -1,4 +1,7 @@
 //Microsoft Visual studio code - installation - https://code.visualstudio.com/download
 // extensions - live server extension
 // install Git https://git-scm.com/downloads
-
+//git init //initiliazation of git repo
+//git add . or git add filename.extension  // adding code or files to the staging area
+//git commit -m "message" //adding code or files to the localrepo
+//git restore --staged script.js //remove the changes which were added in the staging area
