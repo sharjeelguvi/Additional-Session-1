@@ -5,3 +5,4 @@
 //git add . or git add filename.extension  // adding code or files to the staging area
 //git commit -m "message" //adding code or files to the localrepo
 //git restore --staged script.js //remove the changes which were added in the staging area
+
