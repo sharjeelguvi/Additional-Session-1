@@ -6,4 +6,9 @@
 //git commit -m "message" //adding code or files to the localrepo
 //git restore --staged script.js //remove the changes which were added in the staging area
 
-//git pull origin b1 --allow-unrelated-histories - pull the changes from b1 branch to main branch even if main branch doesn't have the files already
+
+//git branch -a ------------ check the branches including the current branch and pointer means that its a current branch
+//git checkout branchname ---------------to switch to a different branch
+//git pull origin(origin is our github repo name) branch-name-from-where-you-have-to-pull -----------pull the changes from one repo or from one branch to another branch
+//git remote add origin "repo name" ---------------adding the github repo to the local git folder
+//git pull origin b1 --allow-unrelated-histories -------- pull the changes from b1 branch to main branch even if main branch doesn't have the files already
